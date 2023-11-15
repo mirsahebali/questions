@@ -1,5 +1,3 @@
-Certainly! Below are sample questions along with potential answers. Note that the answers may vary, and these examples are meant to provide a general idea of the type of response you might expect from a qualified candidate.
-
 #### Core JavaScript Concepts:
 
 1. **Scope and Closures:**
@@ -92,31 +90,31 @@ Certainly! Below are sample questions along with potential answers. Note that th
 
 #### Performance Optimization
 
-12. **Memory Management:**
+11. **Memory Management:**
 
     - _Question:_ How does garbage collection work in JavaScript?What algorithm does JavaScript use for garbage collection?
     - _Answer:_ Garbage collection is the process of automatically reclaiming memory occupied by objects that are no longer in use. JavaScript uses a mark-and-sweep algorithm.
 
 #### Additional Topics:
 
-13. **Security:**
+12. **Security:**
 
     - _Question:_ How can Cross-Site Scripting (XSS) attacks be prevented?
     - _Answer:_ Sanitize user input, use secure coding practices, and implement Content Security Policy (CSP) headers.
 
-14. **Build Tools and Task Runners:**
+13. **Build Tools and Task Runners:**
 
     - _Question:_ Name a popular JavaScript build tool.
     - _Answer:_ Webpack is a widely used build tool in the JavaScript ecosystem.
 
 #### Project Experience:
 
-16. **Project Architecture:**
+14. **Project Architecture:**
 
     - _Question:_ How do you ensure code maintainability in a large project?
     - _Answer:_ I follow modular design principles, use consistent coding patterns, and document the codebase. Additionally, regular refactoring and code reviews contribute to maintainability.
 
-17. **Design Patterns:**
+15. **Design Patterns:**
 
     - _Question:_ What are some design patterns in JavaScript?
     - _Answer:_ Some common design patterns in JavaScript include Singleton, Observer, Factory, Decorator, and Adapter.
