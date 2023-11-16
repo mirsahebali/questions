@@ -1,5 +1,6 @@
 #### Core JavaScript Concepts:
 
+
 1. **Scope and Closures:**
 
    - _Question:_ Explain lexical scope in JavaScript.
