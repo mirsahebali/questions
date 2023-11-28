@@ -1,9 +1,14 @@
+### Task Objective:
+
+#### Make a clone of this website along with it's full functionality along with additional features to be implemented with it. [https://onekeep.com/]{url}
+
+|---------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | Day     | Task Name           | Task Description                                                                                                                  | Constraints                                                   |
-| ------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+|---------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 1 & 2   | Login page          | Create a reusable login page with email magic link authentication and google oauth                                                | -                                                             |
 | 3 & 4   | Logout page         | Create a reusable logout page which asks the reason for logout and log the user's reason with animations                          | Only CSS and TailwindCSS are allow for animations and styling |
 | 5       | Sidebar             | Create a modular sidebar with collapsible submenus                                                                                | -                                                             |
-| 6 & 7   | Open Graph Scraper  | Create an open graph library scraper with fetches links and metadata when an URL is entered into a form.                          | Error handling should be done and with a retry mechanism      |
+| 6 & 7   | Open Graph Scraper  | Create an open graph library scraper with fetches,icons and metadata when an URL is entered into a form.                          | Error handling should be done and with a retry mechanism      |
 | 8 & 9   | Drag and drop       | Make columns which could be dynamically created and we could drag and drop links which we add in that column between them         | No pre-made drag and drop library is allowed                  |
 | 10      | Setting up database | Deploy a postgreSQL container image using Docker on a server and connect it to the app                                            | -                                                             |
 | 11 & 12 | Add Drizzle ORM     | Add drizzle ORM to the project and make a schema for links and columns. The made columns and link should be saved to the database | -                                                             |
@@ -24,3 +29,4 @@
 - You're free to use any React framework but Next.js v13 is prefered
 - Styling UI frameworks like (Chakra and Daisy) is not allowed during development
 - The commits should be make every day with a good commit message and reported issues and self diagnosed bugs
+- Deploy it using vercel or any other platform of your choice
